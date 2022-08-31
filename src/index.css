@@ -1,6 +1,14 @@
+* {
+  background-color: white;
+}
+
 .app {
   display: flex;
-  padding: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;;
+  
 
 }
 .game {
